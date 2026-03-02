@@ -14,13 +14,12 @@ title_separator         : "-"
 name                    : &name "Fernanda S. Barreto"
 description             : &description "Ph.D. Researcher in Hydrogeology at USP & UWaterloo. Focusing on groundwater contamination and urban water management."
 url                     : https://soutofer.github.io 
-baseurl                 : "/academicpages.github.io"
+baseurl                 : ""
 repository              : "soutofer/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
   # Biographic information
 author:
   avatar                : "WhatsApp Image 2026-01-29 at 16.49.42.jpeg" # Certifique-se de que sua foto na pasta /images tem este nome
