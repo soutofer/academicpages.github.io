@@ -9,56 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+You can also download a PDF version of my CV or access my [Brazilian Lattes CV here](https://lattes.cnpq.br/0691451710066040).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* **Ph.D. in Hydrogeology and Environment**, University of São Paulo (USP), Brazil | *2022 - Present*
+  * *International Visiting Graduate Student*, University of Waterloo, Canada (2025 - 2026)
+  * FAPESP Scholar. 
+  * Research focus: Reactive transport modeling, Nitrate, Hydrogeochemistry in urban aquifers.
+* **B.Sc. in Geology**, University of São Paulo (USP), Brazil | *2017 - 2021*
+  * Thesis: Implicit modeling in the improvement of contaminated site conceptual models.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Professional Experience
+* **Researcher (Ph.D. Candidate)**
+  * *University of São Paulo (USP)* | 2022 - Present
+  * Developing the FAPESP-funded project focused on groundwater contamination and modeling.
+* **Researcher**
+  * *Environmental Research Institute (IPA/SIMA), Brazil* | 2021 - 2024
+* **Environmental Assistant & Intern**
+  * *Arcadis, Brazil* | 2021 - 2022
+  * Conducted contaminated site management projects, field team management, soil/water sampling, data visualization, and technical reporting.
+* **Teaching Assistant**
+  * *University of São Paulo (USP)* | 2020 - 2021
+  * Assisted in "Earth System Geochemistry" and "Hydrogeology and Water Resources" undergraduate courses.
+* **Project Director & Advisor**
+  * *Geo Júnior Consultoria* | 2017 - 2020
+  * Managed teams for prospecting and executing geosciences and environmental projects.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Selected Additional Training
+* **Reactive Transport of Contaminants** (Thermodynamic Equilibrium) - ABAS, 2024
+* **Environmental, Health and Safety Audits** - Arcadis, 2022
+* **Mathematical Modeling with FEFLOW** - Water Services and Technologies, 2020
+* **Theoretical and Applied Hydrogeochemistry** - Water Services and Technologies, 2020
+* **Leapfrog (Fundamentals and Intermediary)** - Seequent, 2019
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills
+* **Core Competencies:** Hydrogeology, Mathematical Modeling (Reactive Transport), Contaminated Site Management, Isotope Geochemistry.
+* **Languages:** Portuguese (Native), English (Fluent), Spanish (Intermediate).
