@@ -1,24 +1,24 @@
 ---
 permalink: /
-title: "Sobre mim"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Bem-vinda(o) à minha página! Sou geóloga graduada pelo Instituto de Geociências da Universidade de São Paulo (2022) e atualmente desenvolvo Doutorado Direto (bolsa FAPESP) junto ao projeto **SACRE - Soluções Integradas de Água para Cidades Resilientes**. 
+Welcome to my page! I am a geologist who graduated from the Institute of Geosciences at the University of São Paulo (2022). I am currently a Direct PhD Candidate (FAPESP scholar) working on the **SACRE project - Water Integrated Solutions for Resilient Cities**. 
 
-Durante minha formação doutoral, realizo um período de pesquisa como *International Visiting Graduate Student* na **University of Waterloo** (2025-2026), consolidando uma visão global sobre segurança hídrica e resiliência urbana.
+During my doctoral studies, I am undertaking a research period as an *International Visiting Graduate Student* at the **University of Waterloo** (2025-2026), consolidating a global perspective on water security and urban resilience.
 
-Minha trajetória é marcada pela atuação sinérgica entre a pesquisa acadêmica, a prática de mercado e a interface com a gestão pública. Minha pesquisa atual concentra-se na compreensão do comportamento de poluentes (como o nitrato) e na previsão de impactos a longo prazo em aquíferos urbanos, utilizando modelagem de transporte reativo.
+My career is marked by a synergistic approach bridging academic research, market practice, and public management. My current research focuses on understanding the behavior of pollutants (such as nitrate) and predicting long-term impacts on urban aquifers using reactive transport modeling.
 
-### Áreas de Expertise e Atuação
-* **Hidrogeologia e Hidrogeoquímica**
-* **Gerenciamento de Áreas Contaminadas:** Investigação direta, geofísica e amostragem (com experiência prévia na Arcadis).
-* **Modelagem Matemática:** Transporte reativo de contaminantes.
-* **Gestão de Águas Subterrâneas:** Transferência de conhecimento para a gestão pública (Comitês de Bacia de SP).
+### Areas of Expertise
+* **Hydrogeology and Hydrogeochemistry**
+* **Contaminated Site Management:** Direct investigation, geophysics, and sampling (with previous experience at Arcadis).
+* **Mathematical Modeling:** Reactive transport of contaminants.
+* **Groundwater Management:** Knowledge transfer for public management (São Paulo State River Basin Committees).
 
-Possuo formação complementar em Isotopia e utilizo ativamente ferramentas para a compreensão profunda do sistema Terra. Participo constantemente de fóruns da área, incluindo o Congresso Brasileiro de Águas Subterrâneas e o IAH World Groundwater Congress.
+I have additional training in Isotope Geochemistry and actively use tools for a deep understanding of the Earth system. I frequently participate in scientific forums, including the Brazilian Groundwater Congress and the IAH World Groundwater Congress.
 
-[Acesse meu currículo Lattes completo aqui](https://lattes.cnpq.br/0691451710066040).
+[Access my complete Brazilian Lattes CV here](https://lattes.cnpq.br/0691451710066040).
