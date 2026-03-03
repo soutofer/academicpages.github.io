@@ -22,7 +22,7 @@ repository              : "soutofer/soutofer.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
   # Biographic information
 author:
-  avatar                : "profile.jpg" 
+  avatar                : "profile.jpeg" 
   name                  : "Fernanda S. Barreto"
   bio                   : "PhD Researcher | Hydrogeology | Urban Water Management"
   location              : "São Paulo, Brazil / Waterloo, Canada"
